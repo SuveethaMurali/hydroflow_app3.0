@@ -18,7 +18,7 @@ st.divider()
 st.markdown("#### 👇 Click below to begin your estimation:")
 
 if st.button("🚀 Start Calculation"):
-    st.switch_page("pages/1_Method_Selection.py")
+    st.switch_page("Method_Selection.py")
 
 st.divider()
 st.caption("Developed by: Your Name | Institution: Your College | Department: Civil Engineering")
